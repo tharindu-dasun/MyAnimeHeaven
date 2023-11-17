@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78de7633-05e1-4171-b757-6174abda721a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UwW2WbXF86PTh4bNCP6hpPn2EN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/ijse_projects/MyAnimeHeaven",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\logo" />
+      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\Background" />
+      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\Images\Posters" />
+      <recent name="D:\Ijse Second\AAD\Anime-Website\lk.ijse.gdse\Assests\CSS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78de7633-05e1-4171-b757-6174abda721a" name="Changes" comment="" />
+      <created>1693850920676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693850920676</updated>
+      <workItem from="1693850923246" duration="1799000" />
+      <workItem from="1693936456480" duration="3134000" />
+      <workItem from="1693999075759" duration="3680000" />
+      <workItem from="1694016329153" duration="1398000" />
+      <workItem from="1694332093849" duration="16928000" />
+      <workItem from="1694371701892" duration="2677000" />
+      <workItem from="1694413715692" duration="18455000" />
+      <workItem from="1700230745866" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
